@@ -21,6 +21,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "MyApp",
+      "platforms": []
     }
   ]
 }
