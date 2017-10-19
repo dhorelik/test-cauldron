@@ -2,7 +2,12 @@
   "nativeApps": [
     {
       "name": "WeeklyAds",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
