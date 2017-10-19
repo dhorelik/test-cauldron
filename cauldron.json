@@ -27,20 +27,7 @@
       "platforms": [
         {
           "name": "android",
-          "versions": [
-            {
-              "name": "0.0.1",
-              "ernPlatformVersion": "0.8.0",
-              "isReleased": false,
-              "binary": null,
-              "yarnlock": null,
-              "nativeDeps": [],
-              "miniApps": {
-                "container": [],
-                "codePush": []
-              }
-            }
-          ]
+          "versions": []
         }
       ]
     }
