@@ -24,7 +24,12 @@
     },
     {
       "name": "MyApp",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
