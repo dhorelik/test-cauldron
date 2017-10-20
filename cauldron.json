@@ -2,7 +2,12 @@
   "nativeApps": [
     {
       "name": "testNativeApp",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "android",
+          "versions": []
+        }
+      ]
     }
   ]
 }
