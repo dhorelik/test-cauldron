@@ -16,7 +16,9 @@
                 "react-native@0.49.3"
               ],
               "miniApps": {
-                "container": [],
+                "container": [
+                  "weekly-ads@0.0.1"
+                ],
                 "codePush": []
               }
             }
