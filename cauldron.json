@@ -11,7 +11,7 @@
               "ernPlatformVersion": "0.8.0",
               "isReleased": false,
               "binary": null,
-              "yarnlock": null,
+              "yarnlock": "f7dd5ba355fd49c81ac9fa9c5b979b54c8567bf9",
               "nativeDeps": [
                 "react-native@0.49.3"
               ],
